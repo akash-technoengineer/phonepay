@@ -1,0 +1,75 @@
+*{
+	background-color: lightblue;
+	margin-left: 5px;
+	margin-right: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-family: sans-serif monospace;
+	
+}
+.topbar{
+	margin-right: 66px;
+	margin-bottom: 35px;
+}
+
+.topbar h1{
+	text-align: right;
+	height: 100px;
+	width: 100%;
+	padding-top: 15px;
+	background-color: black;
+	color: lightblue;
+	padding-left: 15px;
+	font-size: 20px;	
+	text-align: center;
+	margin-top: 8px;
+	margin-bottom: 10px;
+}
+.topbar img{
+	margin-left: 15px;
+	float: right;
+	margin-top: 18px;
+}
+.proof button{
+	width: 364px;
+    margin-left: 5px;
+    margin-right: 5px;
+	color: black;
+	font-size: 30px;
+	border: 3px solid black;
+	cursor: pointer;
+}
+.i1{
+	margin-left: 8px;
+
+}
+
+.p1{
+	background-color: lightblue;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	float: left;
+
+}
+.back button{
+	color: black;
+	font-size: 20px;
+	border: 3px solid black;
+	cursor: pointer;
+	margin-left: 130px;
+
+}
+.n{	
+	font-size: 15px;
+	margin-bottom: 50px;
+	margin-left: 15px;
+	padding-bottom: 50px;
+}
+.pd{
+	border: 3px solid black;
+}
+.np{
+	font-size: 25px;
+	margin-left: 15px;
+}
